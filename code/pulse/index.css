@@ -1,0 +1,176 @@
+
+body{
+   margin: 0; 
+   background-color:#EBFAF0;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-left:7em;
+    font-weight:bold;
+}
+
+.header-div{
+    display: flex;
+    font-weight:bold;
+    gap: 4em;
+    padding-right: 2em;
+}
+
+.top-btn{
+    color:#00ad6a;
+    border: 2px solid #00b269;
+    background-color:#EBFAF0;
+    padding:6px 20px;
+    margin-top: auto;
+    margin-bottom:auto;
+    font-weight: bold;
+}
+
+.intro{
+    justify-content: center;
+    text-align: center;
+}
+
+.main{
+    justify-content:center;
+    display: flex;
+    margin-top: 5em;
+
+}
+
+.pluse-Basics{
+    background-color:#EBFAF0 ;
+    margin-top: 5em;
+    padding-right:3em ;
+}
+
+
+p
+{
+  color :#494949  
+ }
+
+li{
+    color: #494949;
+}
+h4{
+    margin-left: 1.5em;
+}
+
+h5{
+    color:#080c16;
+}
+
+h1{
+    text-align: center;
+
+}
+
+#faq{
+    padding-right: 25em;
+    background-color: #fcfcfc;
+    margin-bottom: 0;
+    padding-top:3rem ;
+
+}
+
+#ad{
+    text-align:center;
+    margin-top: 8em;
+}
+
+.recommend{
+   border: 1px solid #00b269;
+   border-top: #00b269 15px solid;
+   border-radius: 0.2em; 
+   padding-left: 2em ;
+   padding-right: 2em;
+   padding-bottom: 2em;
+   background-color:white ;
+   
+}
+.month{
+    text-align: center;
+}
+#plus{
+    text-align: center;
+}
+
+.main-btn{
+  color:#4A464D;
+  background-color:#1fe374; 
+  font-weight: bolder; 
+  border: 0;
+  margin: auto;
+  display: block;
+  padding:1em 2em ;
+  
+}
+
+.extra-features{
+    border:1 solid #494949;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    background-color: #fcfcfc ;
+    padding-left:2em ;
+    padding-right: 2em;
+}
+
+
+.questions{
+   display: flex; 
+   justify-content: space-around;
+   padding: 3em 5em;
+   background-color: #fcfcfc;
+   
+}
+
+footer{
+    background-color:#080c16 ;
+    display: flex;
+    border-bottom-left-radius: 2em;
+    border-bottom-right-radius: 2em;
+}
+
+button{
+    color:#080c16;
+    background-color: #00ad6a;
+    padding: 1em 2em;
+    border: 0;
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+button:hover{
+cursor: pointer;
+color:yellow;
+background-color: darkred;
+font: 1em sans-serif;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+
+.fot-btn{
+    color: #fcfcfc;
+    background-color: #00ad6a;
+    border:2px solid #EBFAF0;
+    margin-top: 5em; 
+    margin-right:1em ;
+    padding:5px 10px; 
+    
+    
+}
+
+.sec-one{
+    display: block;
+    padding: 4em  7em 8em;
+}
+
+.sec-two{
+    display: flex;
+    justify-content: space-around;
+    gap:4em ;
+    padding-top:5em ;
+}

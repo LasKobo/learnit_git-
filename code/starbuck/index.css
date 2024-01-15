@@ -1,0 +1,147 @@
+body{
+    margin: 0;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-left:7em;
+    font-weight:bold;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    gap: 2em;
+    padding-right: 2em;
+    padding-top: 1em;
+}
+
+#star{
+   padding-left: 6.7em; 
+   color:#f3f1e7;
+   background:#1e3932 ;
+   padding-top: 0.5em ;
+   padding-bottom: 0.5em;
+
+}
+
+.first-btn{
+   color: #1e3932;
+   border: #1e3932 solid 1px;
+   padding:0.5em  1em;
+   margin:1.5em 0;
+   border-radius:18px;
+   background-color:white;
+}
+
+.second-btn{
+    color: white;
+    background-color: black;
+    padding:0.5em  1em;
+    margin:1.5em 0;
+    border-radius:18px;
+    border: 0;
+    font-weight:bold ;
+}
+
+
+
+button:hover{
+    cursor: pointer;
+    color:tomato;
+    background-color: darkblue;
+    
+}
+
+button{
+   color: #f3f1e7; 
+   background-color: #008248;
+   font-weight: bold;
+   padding: 0.5em 1em;
+   border-radius: 10em;
+   border: 0;
+}
+
+
+
+.intro{
+    margin-top:auto;
+    margin-bottom: auto;
+    background-color:#d4e9e2;
+    padding-top: 10em;
+    padding-bottom: 10em;
+    padding-left: 6em;
+
+}
+
+p{
+    color:#494949;
+}
+
+#hero{
+    text-align: center;
+    padding-top: 2em;
+}
+
+#extra{
+    text-align: center;
+    padding-top: 2em;
+}
+
+.intro-second{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding-left: 5em;
+    padding-right: 5em;
+    padding-top: 3em;
+    padding-bottom: 2em;
+}
+
+#fav{
+    text-align: center;
+    background: #f1f8f6;
+    padding-top: 1em;
+}
+
+.num{
+    display: flex;
+    gap: 2em;
+    justify-content: center;
+}
+
+.customize{
+    display: flex;
+    justify-content: center;
+    gap:5em;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    background: #d4e9e2;
+}
+
+#cash{
+    text-align: center;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.end{
+  display: flex;
+  justify-content:space-around;
+}
+
+.fini{
+    display: flex;
+    padding-left: 5em;
+    gap:10em;
+}
+
+footer{
+    background:#f3f1e7 ;
+    padding-bottom: 3em;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}

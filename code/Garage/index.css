@@ -1,0 +1,49 @@
+body{
+    background-color:yellow ;
+    height: 43vh;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+     margin-right: auto;
+     border: 3px solid black;
+     margin-top: 200px;
+     
+}
+
+h2{
+  text-align:center;
+}
+.wrapper{
+    background-color:black;
+
+}
+
+
+ h3{
+    padding-left:5px ;
+    color:white ;
+    font-weight: bold;
+ }
+
+h1{
+   text-align: center;
+   color: blue; 
+   font-weight: bolder;
+}
+h4{
+  padding-left: 5px; 
+  color:yellow; 
+}
+
+h6{
+  padding-left: 5px;
+  color:white ;  
+  padding-bottom: 5px;
+}
+p{
+  padding-left: 5px;
+  color: yellow;
+
+}
+
+

@@ -1,0 +1,99 @@
+header{
+    background-color:#000000;
+    color:#dadbf1;
+    display: flex; 
+    padding:0 30px;
+    border-top-left-radius:10px ;
+    border-top-right-radius:10px ;
+    justify-content:space-between;
+}
+
+#button-btn{
+   background-color:#4C5FD5;
+   margin:10px 10px 10px 0;
+   border-radius: 5px;
+   border:0 ;
+   padding: 0 25px;
+   color:#dadbf1;
+   
+   
+}
+
+#button-empty{
+margin:10px ;
+margin-left:800px ;
+color:#dadbf1 ;
+background:#555555;
+border-radius: 5px;
+border: 0;
+padding:0 17px ;
+
+}
+
+.head{
+    text-align: center;
+    background:#dadbf1 ;
+    
+}
+
+input{
+   margin-bottom: 40px;
+   padding:10px ;
+   width:400px ;
+
+}
+
+
+body{
+     background-color:#dadbf1 ; 
+    margin: 0;
+    max-width: cover;
+}
+
+.main{
+  display:flex; 
+  background-color: #fff;
+  flex-wrap:wrap;
+  flex-direction: row;
+  padding:50px  50px ;
+  
+}
+
+.footer{
+   display: flex;
+   flex-direction: row;
+   
+   gap: 100px;
+   background-color: #000000;
+   color:#fff;
+   padding:50px 40px 60px 80px  ;
+   border-bottom-left-radius:10px ;
+   border-bottom-right-radius:10px ;
+}
+
+.chap-dfa{
+    width: 50%;
+    display: flex;
+
+}
+
+.notice{
+    color: #4C5FD5;
+    
+}
+
+.manage{
+   padding-left: 70px; 
+
+}
+
+.material-icons{
+    margin-top:40px ;
+    padding: 1.5rem;
+    
+}
+
+#back{
+    justify-self: start;
+    
+}
