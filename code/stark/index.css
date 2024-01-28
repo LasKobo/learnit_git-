@@ -1,0 +1,155 @@
+body{
+    margin: 0;
+}
+
+
+.lib{
+    display: flex;
+    justify-content:  space-evenly;
+    margin-top: 2em;
+    gap: 4em;
+    padding-left: 4.5em;
+}
+
+    
+
+.header{
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    color:#381fd1 ;
+    background: #f6f6eb;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+
+}
+
+#btn{
+  color: #ffffff;
+  background:#381fd1;
+  margin-top: 1em;
+  margin-bottom: 2em;
+  padding:0.5em 1em;
+  border: 0;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.home{
+    margin-right: 10em;
+}
+
+.resource{
+    display:flex;
+    justify-content: center;
+    margin-top: 1em;
+    
+}
+
+
+.source{
+
+    border: #f6f6eb 1px solid;
+    padding:1em 2em;
+    margin-left: 3em;
+    border-radius: 8px;
+
+}
+
+.stark{
+    background-color: #f6f6eb;
+    border: 0;
+    border-radius: 8px;
+    margin-left: 5em;
+    padding: 1em 1.5em;
+    
+}
+ 
+ #btn:hover{
+    color:purple;
+    background:darkgrey;
+    cursor: pointer;
+ }
+
+ button:hover{
+        color:purple;
+        background:darkgrey;
+        cursor: pointer;
+ }
+
+.header:hover{
+    color: green;
+    cursor:pointer;
+}
+
+
+button{
+    color: #ffffff;
+    font-weight: bold;
+    background: #381fd1;
+    border: 0;
+    border-radius: 5px;
+    padding: 0.5em 3em;
+
+}
+
+.great{
+    display: flex;
+    justify-content: center;
+    gap: 3em;
+    margin-right: 2em;
+    margin-top: 2em;
+
+}
+
+.inclusive{
+    border: 1px solid #f6f6eb ;
+    padding:1em 2em;
+    border-radius: 8px;
+}
+
+.daisy{
+    display: flex;
+    justify-content:center ;
+    margin-left: 15em;
+    margin-top: 1em;
+    gap: 8em;
+
+}
+
+.classy{
+    display: flex;
+    justify-content: center;
+    gap: 5em;
+    margin-left: 8em;
+    color:#11284b ;
+
+}
+
+footer{
+    margin-top: 2em;
+    background-color:#11284b;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+}
+
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    color: #ffffff;
+
+}
+
+#las{
+    
+  color: darkgoldenrod; 
+  padding-bottom: 5em;
+  text-align: right;
+    padding-right: 6em;
+    
+}
+
+p,h4{
+    color: #11284b;
+}
